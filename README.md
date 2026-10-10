@@ -11,5 +11,3 @@ The model assumes a massless rigid lever, a fixed ideal hinge, a point load unde
 Run `npm test` or `node --test`. Tests check force/torque invariants, finite bounded behavior and each challenge's reachable solution and constraints. Three event-handler tests use a minimal DOM double to check relevant-control disclosure, input-only Undo, and progression back to exploration; rendered acceptance remains separate.
 
 Original code and vector artwork, inspired by GeneralGroovy's Muscle Atlas and its direct visual exploration. This project teaches mechanical relationships rather than duplicating an exercise catalogue.
-
-Potential depth, not shipped: two-joint mechanisms, user-authored target puzzles, additional force directions, and energy/work demonstrations.
